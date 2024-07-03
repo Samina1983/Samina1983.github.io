@@ -1,0 +1,23 @@
+ul {
+    list-style-type: none;
+}
+nav {
+    border-top: 5px solid black;
+    text-align: center;
+    padding: 5px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+#mainDiv {
+    display: flex;
+}
+#mainText {
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100%;  
+}
